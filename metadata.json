@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Task Reminders",
+  "description": "An advanced, desktop-style pop-up reminder application to keep track of your daily tasks, powered by Gemini for intelligent task generation.",
+  "requestFramePermissions": []
+}
